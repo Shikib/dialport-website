@@ -90,7 +90,7 @@
                    DialCrowd also mechanisms of low-quality data detection, including (1) outlier and abnormal pattern detection, (2) inter-worker agreement, (3) quality control tasks.
                    Our user study shows that DialCrowd is easy-to-use and that DialCrowd can improve the data quality. -->
               <!-- DialCrowd is a dialogue crowdsourcing toolkit that allows requesters to create tasks that generate high quality data. It reduces the time spent by requesters on more trivial aspects of creating the task with a straightforward, guided interface that results in a cleanly organized task for the worker. Quality control tasks such as duplicated tasks and golden data are added so requesters can easily compare workers’ results to a standard. Other quality tools include flagging work based on time, patterns, and agreement. All in all, DialCrowd aims to provide a seamless, positive experience for both the requester and the worker for higher quality tasks and data. -->
-              It reduces the time spent by requesters on more trivial aspects of creating the task with a straightforward, guided interface that results in a cleanly organized task for the worker. Quality control tasks such as duplicated tasks and golden data are added so requesters can easily compare workers’ results to a standard. Other quality tools include flagging work based on time, patterns, and agreement. All in all, DialCrowd aims to provide a seamless, positive experience for both the requester and the worker for higher quality tasks and data. Currently, there are <b>6</b> sites using our toolkit.
+              It reduces the time spent by requesters on more trivial aspects of creating the task with a straightforward, guided interface that results in a cleanly organized task for the worker. Quality control tasks such as duplicated tasks and golden data are added so requesters can easily compare workers’ results to a standard. Other quality tools include flagging work based on time, patterns, and agreement. All in all, DialCrowd aims to provide a seamless, positive experience for both the requester and the worker for higher quality tasks and data. We currently have <b>6</b> sites using our toolkit.
             </p>
 
             <p>
@@ -109,8 +109,8 @@
           <div id="carousel-example-generic2" class="carousel" data-ride="carousel">            
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img class="img-responsive" src="dc-config.png" alt="DialPort Interface" style="max-height: 70vh;">
-                <div class="carousel-caption card-shadow reveal " style="padding-top: 1em; padding-bottom: 1em;">                  
+                <img class="img-responsive" src="dc-config.png" alt="DialPort Interface">
+                <div class="carousel-caption card-shadow reveal">                  
                   <h3>DialCrowd Interface</h3>
                   <!-- <a class="left carousel-control" href="portal.html#carousel-example-generic" role="button" data-slide="prev">
                        <i class="fa fa-chevron-left" aria-hidden="true"></i>
@@ -121,8 +121,7 @@
                        <span class="sr-only">Next</span>
                        </a> -->
                   <p>
-                    DialCrowd enables requesters to avoid directly interacting with HTML code by providing predefined slots that they can fill out in order. Each section on the interface corresponds directly to a section on the finished task.
-                  </p>
+                    DialCrowd saves requesters from directly interacting with HTML code by providing predefined slots that they can fill out in order. Each section on the interface corresponds directly to a section on the finished task.                  </p>
                   <p>
                     Clarity is always important in a task in order for workers to provide the data that requesters are expecting to obtain. With detailed guidance for instruction and example writing, DialCrowd achieves a higher level of clarity for higher quality data.
                   </p>
@@ -175,12 +174,12 @@
     <div class="container text-center">
       <h2>Examples</h2>
       <!-- In our study, we asked subjects to create a HIT without DialCrowd, and a HIT with DialCrowd. From the examples, you can see DialCrowd greatly improves the quality of a HIT. -->
-      Here are some examples. It can be seen that DialCrowd provides a working and clear interface for the worker, improving the worker’s experience and giving the requester the data they need.
+      These are some examples from our user study. We can see that DialCrowd provides a working and clear interface for the worker, improving the worker’s experience and giving the requester the data they need.
       <div id="carousel-example-generic" class="carousel carousel-fade slide" data-ride="carousel">        
-        <div class="carousel-inner" role="listbox" >
+        <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img class="img-responsive" src="exp-without.png" alt="" style="max-height: 70vh;">
-            <div class="carousel-caption card-shadow reveal " style="padding-top: 1em; padding-bottom: 1em;">              
+            <img class="img-responsive" src="exp-without.png" alt="">
+            <div class="carousel-caption card-shadow reveal">              
               <h3>Without DialCrowd</h3>
               <a class="left carousel-control" href="portal.html#carousel-example-generic" role="button" data-slide="prev">
                 <i class="fa fa-chevron-left" aria-hidden="true"></i>
@@ -197,8 +196,8 @@
           </div>
           
           <div class="item">
-            <img class="img-responsive" src="exp-with.png" alt="" style="max-height: 70vh;">
-            <div class="carousel-caption card-shadow reveal" style="padding-top: 1em; padding-bottom: 1em;">              
+            <img class="img-responsive" src="exp-with.png" alt="">
+            <div class="carousel-caption card-shadow reveal">              
               <h3>With DialCrowd</h3>
               <a class="left carousel-control" href="portal.html#carousel-example-generic" role="button" data-slide="prev">
                 <i class="fa fa-chevron-left" aria-hidden="true"></i>
@@ -218,8 +217,8 @@
           </div>
 
           <div class="item">
-            <img class="img-responsive" src="exp-without-2.png" alt="" style="max-height: 70vh;">
-            <div class="carousel-caption card-shadow reveal" style="padding-top: 1em; padding-bottom: 1em;">              
+            <img class="img-responsive" src="exp-without-2.png" alt="">
+            <div class="carousel-caption card-shadow reveal">              
               <h3>Without DialCrowd</h3>
               <a class="left carousel-control" href="portal.html#carousel-example-generic" role="button" data-slide="prev">
                 <i class="fa fa-chevron-left" aria-hidden="true"></i>
